@@ -1,19 +1,18 @@
 {
 	"manifest_version": 2,
 
-	"name": "My Testing Extension",
-	"description": "This is my very first chorme extension.",
+	"name": "Auto Bottles",
+	"description": "Automatically get bottles in Ocean Hero",
 	"browser_action": {
-		"default_icon": "icon.png",
 		"default_popup": "popup.html"
 	},
 	"permissions": ["tabs"],
-	"version": "0.1",
+	"version": "1",
 
 	"content_scripts": [
 		{
 			"matches": ["<all_urls>"],
-			"js": ["jq.js", "content.js"]
+			"js": ["content.js"]
 		}
 	],
 
