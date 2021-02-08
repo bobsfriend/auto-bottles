@@ -1,0 +1,24 @@
+{
+	"manifest_version": 2,
+
+	"name": "My Testing Extension",
+	"description": "This is my very first chorme extension.",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	"permissions": ["tabs"],
+	"version": "0.1",
+
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["jq.js", "content.js"]
+		}
+	],
+
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	}
+}
