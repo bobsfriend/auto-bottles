@@ -11,9 +11,23 @@ I estimate about 200 bottles in 5 minutes.
 ## Install Directions
 
 1. Go to releases in the github sidebar.
-2. Download the latest (insert file extension here) file.
-3. Double click the file that you downloaded to install the extension.
- <hr>
+   ![Tutorial Picture](https://www.calebherring.ga/assets/img/auto-bottles-releases.png)
+
+Here the windows and mac installation differs from chromebook.
+
+##### Windows / Mac
+
+2. Download the Source code.zip file.
+3. Extract it to any folder.
+4. Open the extensions page
+   3.1 Click the three dots.
+   3.2 Under More Tools click Extensions.
+5. Drag the unziped folder onto the page.
+
+#####Chromebook 2. Download the latest .crx file.
+![Tutorial Picture](https://www.calebherring.ga/assets/img/auto-bottles-realse-files.png) 3. Open the extensions page
+3.1 Click the three dots.
+3.2 Under More Tools click Extensions. 4. Enable Developer Mode. (Toggle in the top right corner). 5. Drag the downloaded file into the window.
 
 ## Using the extension
 
