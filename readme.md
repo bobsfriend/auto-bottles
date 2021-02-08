@@ -24,7 +24,8 @@ Here the windows and mac installation differs from chromebook.
    3.2 Under More Tools click Extensions.
 5. Drag the unziped folder onto the page.
 
-#####Chromebook 2. Download the latest .crx file.
+##### Chromebook 
+2. Download the latest .crx file.
 ![Tutorial Picture](https://www.calebherring.ga/assets/img/auto-bottles-realse-files.png) 3. Open the extensions page
 3.1 Click the three dots.
 3.2 Under More Tools click Extensions. 4. Enable Developer Mode. (Toggle in the top right corner). 5. Drag the downloaded file into the window.
