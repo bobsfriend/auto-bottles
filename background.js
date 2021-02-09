@@ -19,12 +19,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 					"https://oceanhero.today/web?q=turpis+nunc+eget+lorem+dolor+sed+viverra+ipsum+nunc+aliquet",
 				active: true,
 			});
-		} else {
-			chrome.tabs.update({
-				url:
-					"https://oceanhero.today/web?q=turpis+nunc+eget+lorem+dolor+sed+viverra+ipsum+nunc",
-				active: true,
-			});
 		}
 	});
 });
