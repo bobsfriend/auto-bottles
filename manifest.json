@@ -7,7 +7,7 @@
 		"default_popup": "popup.html"
 	},
 	"permissions": ["tabs"],
-	"version": "1",
+	"version": "2",
 
 	"content_scripts": [
 		{
