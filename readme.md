@@ -7,6 +7,7 @@ I estimate about 200 bottles in 5 minutes.
 ---
 
 **Using this doesn't help Ocean Hero. See this [faq article](https://oceanhero.zendesk.com/hc/en-us/articles/360012009979-Can-I-generate-searches-with-bots-or-do-many-random-manual-searches-).**
+(I only made this because my friend wanted me to)
 
 ## Install Directions
 
